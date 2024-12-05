@@ -1,0 +1,16 @@
+#myCanvas {
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid black;
+    box-sizing: content-box;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+body {
+    margin: 0;
+    background-color: grey;
+}
